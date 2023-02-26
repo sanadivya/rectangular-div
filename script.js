@@ -1,3 +1,4 @@
+//console.log("Hello world");
 //let colors = ['orange', 'green', 'blue', 'yellow', 'red', 'pink'];
 let btn = document.getElementById('change');
 const inputValue = document.getElementById('inputValue');
